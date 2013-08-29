@@ -21,4 +21,7 @@ $messages['en'] = array(
 	'sitesupport'            => '',
 	'sitesupport-url'        => '',
 	'tooltip-n-sitesupport'  => '',
+	'wikimedia-copyright'    => 'Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+additional terms may apply.
+By using this site, you agree to the <a href="//meta.orain.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//meta.orain.org/wiki/Privacy_Policy">Privacy Policy.</a>',
 );
