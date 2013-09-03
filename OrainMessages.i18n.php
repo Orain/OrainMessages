@@ -14,6 +14,7 @@ $messages = array();
 $messages['en'] = array(
 	'centralauth-groupname'  => 'Orain',
 	'orainmessages-desc'     => 'Orain-specific messages',
+	'privacy'                => 'meta:Privacy Policy',
 	'sitematrix'             => 'List of Orain wikis',
 	'sitematrix-summary'     => 'This special page lists all Orain wikis.',
 	'sitematrix-desc'        => 'Displays a [[Special:SiteMatrix|list of Orain wikis]]',
