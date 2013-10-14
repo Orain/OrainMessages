@@ -12,3 +12,7 @@ $wgExtensionCredits['other'][] = array(
 );
 
 $wgExtensionMessagesFiles['ZOrainMessages'] = dirname( __FILE__ ) . '/OrainMessages.i18n.php';
+
+$wgAutoloadClasses['OrainMessagesHooks'] = dirname( __FILE__ ) . '/OrainMessages.hooks.php';
+$wgHooks['SoftwareInfo'][] = 'OrainMessagesHooks::getSoftwareInfo';
+
