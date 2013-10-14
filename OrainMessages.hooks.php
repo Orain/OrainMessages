@@ -1,3 +1,4 @@
+<?php
 /**
  * Hooks for the OrainMessages extension.
  */
