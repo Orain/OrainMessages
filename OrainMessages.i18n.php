@@ -29,6 +29,7 @@ $messages['en'] = array(
 	'group-steward'                      => 'Stewards',
 	'group-steward-member'               => 'steward',
 	'privacypage'                        => 'm:Privacy Policy',
+	'restriction-delete'                 => 'Delete',
 	'sitematrix'                         => 'List of Orain wikis',
 	'sitematrix-summary'                 => 'This special page lists all Orain wikis.',
 	'sitematrix-desc'                    => 'Displays a [[Special:SiteMatrix|list of Orain wikis]]',
