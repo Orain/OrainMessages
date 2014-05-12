@@ -98,13 +98,13 @@ $messages['en'] = array(
 	'restriction-delete'                 => '삭제',
 	'sitematrix'                         => 'Orain 위키 리스트',
 	'sitematrix-summary'                 => '이 특수 문서는 모든 Orain 위키의 목록을 보여줍니다.',
-	'sitematrix-desc'                    => '[[Special:SiteMatrix|list of Orain 위키의]] 목록을 보여 줍니다.',
+	'sitematrix-desc'                    => '[[Special:SiteMatrix|Orain 위키]]의 목록을 보여 줍니다.',
 	'sitematrix-others'                  => '다른 Orain 위키',
 	'sitesupport'                        => '',
 	'sitesupport-url'                    => '',
 	'tooltip-n-sitesupport'              => '',
-	'wikimedia-copyright'                => '내용은 <a href="//creativecommons.org/licenses/by-sa/3.0/">크리에이티브 커먼즈 저작자표시-동일조건변경허락</a> 에 의해 배포됩니다.; 추가적인 조건이 적용될 수 있습니다.
-이 사이트를 이용함으로서, 당신은<a href="//meta.orain.org/wiki/Terms_of_Use">이용 약관</a>과 <a href="//meta.orain.org/wiki/Privacy_Policy">개인정보 정책</a>에 동의합니다.',
+	'wikimedia-copyright'                => '내용은 <a href="//creativecommons.org/licenses/by-sa/3.0/">크리에이티브 커먼즈 저작자표시-동일조건변경허락</a> 에 의해 배포됩니다; 추가적인 조건이 적용될 수 있습니다.
+이 사이트를 이용함으로서, 당신은 <a href="//meta.orain.org/wiki/Terms_of_Use">이용 약관</a>과 <a href="//meta.orain.org/wiki/Privacy_Policy">개인정보 정책</a>에 동의합니다.',
 );
 
 /** Chinese (Simplified)
