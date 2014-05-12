@@ -70,7 +70,7 @@ Drwy ddefnyddio\'r wefan hon, rydych yn cytuno i\'r <a href="//meta.orain.org/wi
 /** Korean
  * @author Revi
  */
-$messages['en'] = array(
+$messages['ko'] = array(
 	'centralauth-groupname'              => 'Orain',
 	'orainmessages-desc'                 => 'Orain 전용 메시지',
 	'group-global-bot'                   => '전역 봇',
