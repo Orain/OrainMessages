@@ -67,6 +67,46 @@ gall fod telerau ychwanegol yn perthyn i\'r.
 Drwy ddefnyddio\'r wefan hon, rydych yn cytuno i\'r <a href="//meta.orain.org/wiki/Terms_of_Use">Telerau Defnyddio</a> a <a href="//meta.orain.org/wiki/Privacy_Policy">Ppolisi preifatrwydd.</a>',
 );
 
+/** Korean
+ * @author Revi
+ */
+$messages['en'] = array(
+	'centralauth-groupname'              => 'Orain',
+	'orainmessages-desc'                 => 'Orain 전용 메시지',
+	'group-global-bot'                   => '전역 봇',
+	'group-global-bot-member'            => '전역 봇',
+	'grouppage-global-bot'               => 'm:Global bots',
+	'group-global-importer'              => '전역 들여오는자',
+	'group-global-importer-member'       => '전역 들여오는자',
+	'group-global-ipblock-exempt'        => '전역 IP 차단 면제자',
+	'group-global-ipblock-exempt-member' => '전역 IP 차단 면제자',
+	'group-global-rollbacker'            => '전역 되돌리기 사용자',
+	'group-global-rollbacker-member'     => '전역 되돌리기 사용자',
+	'grouppage-global-rollbacker'        => 'm:Global rollbackers',
+	'group-global-sysop'                 => '전역 관리자',
+	'group-global-sysop-member'          => '전역 관리자',
+	'grouppage-global-sysop'             => 'm:Global sysops',
+	// 'group-ombudsman'                 => '옴부즈맨',
+	// 'group-ombudsman-member'          => '옴부즈맨',
+	'group-steward'                      => '사무장',
+	'group-steward-member'               => '사무장',
+	'grouppage-steward'                  => 'm:Stewards',
+	'group-sysadmin'                     => '시스템 관리자',
+	'group-sysadmin-member'              => '시스템 관리자',
+	'grouppage-sysadmin'                 => 'm:System administrators',
+	'privacypage'                        => 'm:Privacy Policy',
+	'restriction-delete'                 => '삭제',
+	'sitematrix'                         => 'Orain 위키 리스트',
+	'sitematrix-summary'                 => '이 특수 문서는 모든 Orain 위키의 목록을 보여줍니다.',
+	'sitematrix-desc'                    => '[[Special:SiteMatrix|list of Orain 위키의]] 목록을 보여 줍니다.',
+	'sitematrix-others'                  => '다른 Orain 위키',
+	'sitesupport'                        => '',
+	'sitesupport-url'                    => '',
+	'tooltip-n-sitesupport'              => '',
+	'wikimedia-copyright'                => '내용은 <a href="//creativecommons.org/licenses/by-sa/3.0/">크리에이티브 커먼즈 저작자표시-동일조건변경허락</a> 에 의해 배포됩니다.; 추가적인 조건이 적용될 수 있습니다.
+이 사이트를 이용함으로서, 당신은<a href="//meta.orain.org/wiki/Terms_of_Use">이용 약관</a>과 <a href="//meta.orain.org/wiki/Privacy_Policy">개인정보 정책</a>에 동의합니다.',
+);
+
 /** Chinese (Simplified)
  * @author Hydriz
  */
