@@ -106,7 +106,46 @@ $messages['ko'] = array(
 	'wikimedia-copyright'                => '내용은 <a href="//creativecommons.org/licenses/by-sa/3.0/">크리에이티브 커먼즈 저작자표시-동일조건변경허락</a> 에 의해 배포됩니다; 추가적인 조건이 적용될 수 있습니다.
 이 사이트를 이용함으로서, 당신은 <a href="//meta.orain.org/wiki/Terms_of_Use">이용 약관</a>과 <a href="//meta.orain.org/wiki/Privacy_Policy">개인정보 정책</a>에 동의합니다.',
 );
-
+/** Dutch
+* @author Southparkfan
+*/
+$messages['nl'] = array(
+'centralauth-groupname' => 'Orain',
+'orainmessages-desc' => 'Orain-specific messages',
+'group-global-bot' => 'Globale bots',
+'group-global-bot-member' => 'globale bot',
+'grouppage-global-bot' => 'm:Global bots',
+'group-global-importer' => 'Globale importeurs',
+'group-global-importer-member' => 'globale importeur',
+'group-global-ipblock-exempt' => 'Uitgezonderden van IP-adresblokkades',
+'group-global-ipblock-exempt-member' => 'uitgezonderde van IP-adresblokkades ',
+'group-global-rollbacker' => 'Globale terugdraaiers ',
+'group-global-rollbacker-member' => 'globale terugdraaier',
+'grouppage-global-rollbacker' => 'm:Global rollbackers',
+'group-global-sysop' => 'Globale beheerder',
+'group-global-sysop-member' => 'globale beheerder',
+'grouppage-global-sysop' => 'm:Global sysops',
+// 'group-ombudsman' => 'Ombudsman',
+// 'group-ombudsman-member' => 'ombudsman',
+'group-steward' => 'Stewards',
+'group-steward-member' => 'steward',
+'grouppage-steward' => 'm:Stewards',
+'group-sysadmin' => 'Systeembeheerders',
+'group-sysadmin-member' => 'systeembeheerder',
+'grouppage-sysadmin' => 'm:System administrators',
+'privacypage' => 'm:Privacy Policy',
+'restriction-delete' => 'Verwijderen',
+'sitematrix' => 'Lijst van Orain wiki's,
+'sitematrix-summary' => 'Deze speciale pagina is een lijst van alle Orain wiki's.',
+'sitematrix-desc' => 'Laat een [[Special:SiteMatrix|lijst van Orain wiki's zien]]',
+'sitematrix-others' => 'Andere Orain wiki's,
+'sitesupport' => '',
+'sitesupport-url' => '',
+'tooltip-n-sitesupport' => '',
+'wikimedia-copyright' => 'Tekst is beschikbaar onder de <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Naamsvermelding/GelijkDelen Licentie</a>;
+extra voorwaarden kunnen van toepassing zijn.
+Door het gebruiken van de site, gaat u akkoord met de <a href="//meta.orain.org/wiki/Terms_of_Use">Gebruiksvoorwaarden</a> en het <a href="//meta.orain.org/wiki/Privacy_Policy">Privacybeleid.</a>',
+);
 /** Chinese (Simplified)
  * @author Hydriz
  */
