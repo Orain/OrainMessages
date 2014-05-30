@@ -111,7 +111,7 @@ $messages['ko'] = array(
 */
 $messages['nl'] = array(
 'centralauth-groupname' => 'Orain',
-'orainmessages-desc' => 'Orain-specific messages',
+'orainmessages-desc' => 'Orain-specifieke berichten',
 'group-global-bot' => 'Globale bots',
 'group-global-bot-member' => 'globale bot',
 'grouppage-global-bot' => 'm:Global bots',
