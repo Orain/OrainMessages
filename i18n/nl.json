@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Southparkfan"
+		]
+	},
+	"centralauth-groupname": "Orain",
+	"orainmessages-desc": "Orain-specifieke berichten",
+	"group-global-bot": "Globale bots",
+	"group-global-bot-member": "globale bot",
+	"grouppage-global-bot": "m:Global bots",
+	"group-global-importer": "Globale importeurs",
+	"group-global-importer-member": "globale importeur",
+	"group-global-ipblock-exempt": "Uitgezonderden van IP-adresblokkades",
+	"group-global-ipblock-exempt-member": "uitgezonderde van IP-adresblokkades ",
+	"group-global-rollbacker": "Globale terugdraaiers ",
+	"group-global-rollbacker-member": "globale terugdraaier",
+	"grouppage-global-rollbacker": "m:Global rollbackers",
+	"group-global-sysop": "Globale beheerders",
+	"group-global-sysop-member": "globale beheerder",
+	"grouppage-global-sysop": "m:Global sysops",
+	"group-steward": "Stewards",
+	"group-steward-member": "steward",
+	"grouppage-steward": "m:Stewards",
+	"group-sysadmin": "Systeembeheerders",
+	"group-sysadmin-member": "systeembeheerder",
+	"grouppage-sysadmin": "m:System administrators",
+	"privacypage": "m:Privacy Policy",
+	"restriction-delete": "Verwijderen",
+	"sitematrix": "Lijst van Orain wiki's",
+	"sitematrix-summary": "Deze speciale pagina is een lijst van alle Orain wiki's.",
+	"sitematrix-desc": "Laat een [[Special:SiteMatrix|lijst van Orain wiki's zien]]",
+	"sitematrix-others": "Andere Orain wiki's",
+	"sitesupport": "",
+	"sitesupport-url": "",
+	"tooltip-n-sitesupport": "",
+	"wikimedia-copyright": "Tekst is beschikbaar onder de <a href=\"//creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Naamsvermelding/GelijkDelen Licentie</a>;\nextra voorwaarden kunnen van toepassing zijn.\nDoor het gebruiken van de site, gaat u akkoord met de <a href=\"//meta.orain.org/wiki/Terms_of_Use\">Gebruiksvoorwaarden</a> en het <a href=\"//meta.orain.org/wiki/Privacy_Policy\">Privacybeleid.</a>"
+}

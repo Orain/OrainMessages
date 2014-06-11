@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"John"
+		]
+	},
+	"centralauth-groupname": "Orain",
+	"orainmessages-desc": "Negeseuon Orain-benodol",
+	"sitematrix": "Rhestr o Orain wikis",
+	"sitematrix-summary": "Mae'r dudalen hon yn arbennig yn rhestru'r holl wikis Orain.",
+	"sitematrix-desc": "Arddangosfeydd a [[Special:SiteMatrix|rhestr o Orain wikis]]",
+	"sitematrix-others": "Orain wikis eraill",
+	"sitesupport": "",
+	"sitesupport-url": "",
+	"tooltip-n-sitesupport": "",
+	"wikimedia-copyright": "Rhoddir testun y dudalen ar gael o dan y <a href=\"//creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution/Share-Alike License</a>;\ngall fod telerau ychwanegol yn perthyn i'r.\nDrwy ddefnyddio'r wefan hon, rydych yn cytuno i'r <a href=\"//meta.orain.org/wiki/Terms_of_Use\">Telerau Defnyddio</a> a <a href=\"//meta.orain.org/wiki/Privacy_Policy\">Ppolisi preifatrwydd.</a>"
+}

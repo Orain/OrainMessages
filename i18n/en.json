@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kudu"
+		]
+	},
+	"centralauth-groupname": "Orain",
+	"orainmessages-desc": "Orain-specific messages",
+	"group-global-bot": "Global bots",
+	"group-global-bot-member": "global bot",
+	"grouppage-global-bot": "m:Global bots",
+	"group-global-importer": "Global importers",
+	"group-global-importer-member": "global importer",
+	"group-global-ipblock-exempt": "Global IP block exempt",
+	"group-global-ipblock-exempt-member": "global IP block exempt",
+	"group-global-rollbacker": "Global rollbackers",
+	"group-global-rollbacker-member": "global rollbacker",
+	"grouppage-global-rollbacker": "m:Global rollbackers",
+	"group-global-sysop": "Global sysops",
+	"group-global-sysop-member": "global sysop",
+	"grouppage-global-sysop": "m:Global sysops",
+	"group-steward": "Stewards",
+	"group-steward-member": "steward",
+	"grouppage-steward": "m:Stewards",
+	"group-sysadmin": "System administrators",
+	"group-sysadmin-member": "system administrator",
+	"grouppage-sysadmin": "m:System administrators",
+	"privacypage": "m:Privacy Policy",
+	"restriction-delete": "Delete",
+	"sitematrix": "List of Orain wikis",
+	"sitematrix-summary": "This special page lists all Orain wikis.",
+	"sitematrix-desc": "Displays a [[Special:SiteMatrix|list of Orain wikis]]",
+	"sitematrix-others": "Other Orain wikis",
+	"sitesupport": "",
+	"sitesupport-url": "",
+	"tooltip-n-sitesupport": "",
+	"wikimedia-copyright": "Text is available under the <a href=\"//creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution/Share-Alike License</a>;\nadditional terms may apply.\nBy using this site, you agree to the <a href=\"//meta.orain.org/wiki/Terms_of_Use\">Terms of Use</a> and <a href=\"//meta.orain.org/wiki/Privacy_Policy\">Privacy Policy.</a>"
+}

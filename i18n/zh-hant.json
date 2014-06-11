@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hydriz"
+		]
+	},
+	"centralauth-groupname": "奧蘭",
+	"orainmessages-desc": "奧蘭的特別信息",
+	"sitematrix": "奧蘭維基列表",
+	"sitematrix-summary": "此特殊頁面列出所有奧蘭維基。",
+	"sitematrix-desc": "顯示一個[[Special:SiteMatrix|奧蘭維基列表]]",
+	"sitematrix-others": "其他奧蘭維基",
+	"sitesupport": "",
+	"sitesupport-url": "",
+	"tooltip-n-sitesupport": ""
+}
