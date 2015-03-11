@@ -1,0 +1,41 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wynter"
+		]
+	},
+	"centralauth-groupname": "Orain",
+	"orainmessages-desc": "Mensajes específicos de Orain",
+	"group-global-bot": "Bots globales",
+	"group-global-bot-member": "bot global",
+	"grouppage-global-bot": "m:Global bots",
+	"group-global-importer": "Importadores globales",
+	"group-global-importer-member": "importador global",
+	"group-global-ipblock-exempt": "Exenciones de bloqueos IP globales",
+	"group-global-ipblock-exempt-member": "exento de bloqueo IP global",
+	"group-global-rollbacker": "Reversores globales",
+	"group-global-rollbacker-member": "reversor global",
+	"grouppage-global-rollbacker": "m:Global rollbackers",
+	"group-global-sysop": "Administradores globales",
+	"group-global-sysop-member": "administrador global",
+	"grouppage-global-sysop": "m:Global sysops",
+	"group-steward": "Stewards",
+	"group-steward-member": "steward",
+	"grouppage-steward": "m:Stewards",
+	"group-sysadmin": "Administradores del sistema",
+	"group-sysadmin-member": "administrador del sistema",
+	"grouppage-sysadmin": "m:System administrators",
+	"group-wikicreator": "Creadores de wiki",
+	"group-wikicreator-member": "creador de wiki",
+	"grouppage-wikicreator": "m:Wiki creator",
+	"privacypage": "m:Privacy Policy",
+	"restriction-delete": "Borrar",
+	"sitematrix": "Lista de wikis de Orain",
+	"sitematrix-summary": "Esta página especial lista todas las wikis de Orain.",
+	"sitematrix-desc": "Muestra una [[Special:SiteMatrix|lista de wikis de Orain]]",
+	"sitematrix-others": "Otras wikis de Orain",
+	"sitesupport": "",
+	"sitesupport-url": "",
+	"tooltip-n-sitesupport": "",
+	"wikimedia-copyright": "El texto está disponible bajo la <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.es\">Licencia Creative Commons Atribución Compartir Igual 3.0</a>;\npodrían ser aplicables cláusulas adicionales.\Por usar este sitio, usted concede a las <a href=\"//meta.orain.org/wiki/Terms_of_Use\">Términos de Uso</a> y la <a href=\"//meta.orain.org/wiki/Privacy_Policy\">Política de Privacidad</a>."
+}
